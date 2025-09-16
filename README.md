@@ -32,7 +32,7 @@ The core of the smart contract is the **`PersonalWebsite`** struct, which stores
 ### Step 1: Clone the Repository
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/siddhimeh/NFT--Linked-_Personal_website
 cd NFTWebsiteAccess
 ```
 
