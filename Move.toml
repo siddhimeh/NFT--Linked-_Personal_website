@@ -1,0 +1,16 @@
+[package]
+name = "NFT-Linked_personal_website"
+version = "1.0.0"
+authors = []
+
+[addresses]
+MyModule = "0x91b2fcce940b1215845acb7b677f450122572930a17b56c00efd9e3f67193e43"
+
+[dev-addresses]
+
+[dependencies.AptosFramework]
+git = "https://github.com/aptos-labs/aptos-framework.git"
+rev = "mainnet"
+subdir = "aptos-framework"
+
+[dev-dependencies]
